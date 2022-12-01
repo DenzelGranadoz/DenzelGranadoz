@@ -1,6 +1,7 @@
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/84443588/202420443-f7fef9ee-19ca-4b77-8cfc-b32681778f12.gif" alt="codin">
+  <img src="https://user-images.githubusercontent.com/84443588/205028182-a3539607-7711-4b53-8b1c-ecabb99c420d.gif" alt="codin">
 </p>
+
 <h1 align="center">Hi 👋, I'm Denzel Granadoz</h1>
 <h3 align="center">A passionate Web Developer from Philippines</h3>
 
