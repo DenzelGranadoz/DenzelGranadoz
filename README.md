@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Denzel Granadoz</h1>
 <h3 align="center">A passionate Web Developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👨‍💻 All of my projects are available at [denzelgranadoz.com](denzelgranadoz.com)
 
